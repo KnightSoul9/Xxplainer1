@@ -14,6 +14,8 @@ const Names = [
     name: `Sales, Marketing, Customer Ops`,
   },
   { name: `Freshers & MBA folks` },
+
+  { name: `Product Leaders` },
 ];
 
 const Banner = () => {

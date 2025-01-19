@@ -44,7 +44,6 @@ const Apiforpms = ({ course }) => {
       window.removeEventListener("scroll", handleScroll);
     };
   }, []);
-
   return (
     <>
       <CommonHead
@@ -52,7 +51,6 @@ const Apiforpms = ({ course }) => {
         description={"APIs For Product Managers"}
         favIcon={"/favicon.ico"}
       />
-
       <PageLayout>
         <Banner />
         <Info />
