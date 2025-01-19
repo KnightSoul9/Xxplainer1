@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "6461aa284dc1cf18b67e4875"
+  },
+  "courseID": "Wh3EcKK3kvkg9Eqwr19s",
+  "slug": "api-for-pm",
+  "title": "API For Product Manager",
+  "metaTitle": "As Product Managers, it is often not easy to understand technology and for those getting started it might even be a little over whelming. If not anything you should at least be really comfortable with the world of APIs.",
+  "isPublished": true,
+  "category": "interview",
+  "cover_image": "https://ik.imagekit.io/zwxa4kttt/courses/Api__1_.jpg",
+  "priceData": {
+    "amount": "999",
+    "currency": "inr",
+    "test": {
+      "priceId": "price_1Ms0b3SBqetirFH0Nt5qV6aQ"
+    },
+    "live": {
+      "priceId": "price_1N2fzKSBqetirFH0Exkv2XVw"
+    }
+  },
+  "productPermalink": "https://www.xplainerr.com/courses/api-for-pm",
+  "reviewData": {
+    "enrollmentCount": "1203",
+    "ratings": "4",
+    "reviewCount": "413"
+  },
+  "keyPoints": [
+    "Why do we even need an API? What is an API?",
+    "Learn about REST, SOAP and GraphQL",
+    "Learn about HTTP request, respnse, endpoint etc",
+    "Build sample app by integrating with 3rd party APIs",
+    "Learn about webhooks, SDKs, OAuth, API rate limiting, etc",
+    "Become a tech PM & learn how to communicate with dev team",
+    "Learn how to read and write API documentation to ensure efficient communication between product and technical teams",
+    "Understand the importance of testing APIs and learn how to test and troubleshoot issues"
+  ],
+  "courseHighlights": [
+    "10+ chapters",
+    "Full lifetime access",
+    "Certificate of completion"
+  ],
+  "alumniOrgs": [
+    "1.svg",
+    "2.svg",
+    "6.svg",
+    "8.svg",
+    "7.svg",
+    "10.svg"
+  ],
+  "requiredSkills": [
+    "No programming experience needed - I'll teach you everything you need to know",
+    "Good to have basic understanding of web technology",
+    "Understanding of software development life cycle",
+    "Understanding of the role of APIs in product development",
+    "Basic knowledge of data formats (XML, JSON)"
+  ],
+  "faqData": [
+    {
+      "question": "How does the Program work?",
+      "answer": "We offer micro learning courses for tech, marketing, and design. Free access with the option to upgrade. Bite-sized learning to fit your schedule and enhance your career.",
+      "_id": {
+        "$oid": "645fdca5fc84acadc14d3ca8"
+      }
+    },
+    {
+      "question": "I made the payment and didn't receive any email?",
+      "answer": "Please contact us using the chat support available on bottom right. You can also write to us at deepak@xplainerr.com. We will resolve your query within 24 working hours.",
+      "_id": {
+        "$oid": "645fdca5fc84acadc14d3ca9"
+      }
+    },
+    {
+      "question": "Can I get a refund?",
+      "answer": "No, we don't offer any refund. A free tier is already available at no cost.",
+      "_id": {
+        "$oid": "645fdca5fc84acadc14d3caa"
+      }
+    }
+  ],
+  "courseDescription": "As a product manager, it's essential to understand the technology behind your product, and APIs play a crucial role in that. This course is designed to provide non-technical product managers with a comprehensive understanding of APIs and their impact on product development. Throughout the course, you will learn the basics of APIs, how they work, and their benefits to your product development process. You will also gain an understanding of RESTful APIs, HTTP, JSON, and how they all fit together. Additionally, the course will cover topics like API design, documentation, testing, and security. By the end of this course, you will have a deep understanding of APIs and be able to use this knowledge to communicate effectively with technical team members and make informed product decisions. Join this API course today and start your journey towards becoming a tech-savvy product manager!",
+  "instructors": [
+    {
+      "name": "Deepak Kumar",
+      "designation": "Software Engineer",
+      "image": "deepak.jpeg",
+      "ratings": 5,
+      "reviews": 12,
+      "students": 32,
+      "courses": 2,
+      "description": "Deepak currently works as a Software engineer 2 at Airmeet and has taught API to 100s of aspiring product managers and software engineers with API Masterclass series. Reach out to him on LinkedIn - https://linkedin.com/in/dipakkr",
+      "_id": {
+        "$oid": "645fdca5fc84acadc14d3cac"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-13T18:53:25.521Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T14:32:55.610Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646213fc46f52640a06b78e8"
+  },
+  "courseID": "jcIkkhRmkEHzja9srGHt",
+  "slug": "pricing-for-pm",
+  "title": "Pricing For Product Manager",
+  "metaTitle": "Learn how to set prices, optimize revenue, and design monetization strategies that align with your business goals. Master the art of pricing for product managers with this comprehensive course.",
+  "isPublished": true,
+  "category": "product-management",
+  "cover_image": "https://ik.imagekit.io/zwxa4kttt/courses/pricing-for-pm",
+  "priceData": {
+    "amount": "999",
+    "currency": "inr",
+    "test": {
+      "priceId": "price_1MuhpWSBqetirFH0ppJyCIN1"
+    },
+    "live": {
+      "priceId": "price_1MuhpWSBqetirFH0hqhtdA0u"
+    }
+  },
+  "productPermalink": "https://www.xplainerr.com/courses/pricing-for-pm",
+  "reviewData": {
+    "enrollmentCount": "4002",
+    "ratings": "5",
+    "reviewCount": "214"
+  },
+  "keyPoints": [
+    "Why is the biggest competition of Grammarly isn’t anyone else but Grammarly itself?",
+    "How did LinkedIn and e-bay monetise themselves by using the power of data?",
+    "How does booking.com create a scarcity effect?",
+    "Why is freemium Spotify's biggest leverage?",
+    "Why did Swiggy launch Super at a low price?",
+    "Why did Netflix premium pricing fail in India?",
+    "Learn how to read and write API documentation",
+    "Become a tech PM & ace your communication with dev team"
+  ],
+  "courseHighlights": [
+    "12+ chapters",
+    "10+ case study",
+    "Full lifetime access",
+    "Certificate of completion"
+  ],
+  "alumniOrgs": [
+    "1.svg",
+    "2.svg",
+    "6.svg",
+    "7.svg",
+    "8.svg",
+    "10.svg"
+  ],
+  "requiredSkills": [
+    "Understanding of basic economics - supply and demand, market competition, and pricing strategies can be helpful in learning pricing for product management.",
+    "Market research skills - Conducting market research to understand customer needs.",
+    "Financial analysis skills - The ability to analyze financial data and evaluate the impact of pricing decisions on revenue and profit margins",
+    "Communication skills - Effective communication skills are necessary for collaborating with cross-functional teams such as sales, marketing, and finance to set prices that align with business goals.",
+    "Basic knowledge of data formats (XML, JSON)"
+  ],
+  "faqData": [
+    {
+      "question": "How does the Program work?",
+      "answer": "We offer micro learning courses for tech, marketing, and design. Free access with the option to upgrade. Bite-sized learning to fit your schedule and enhance your career.",
+      "_id": {
+        "$oid": "646213fc46f52640a06b78e9"
+      }
+    },
+    {
+      "question": "I made the payment and didn't receive any email?",
+      "answer": "Please contact us using the chat support available on bottom right. You can also write to us at deepak@xplainerr.com. We will resolve your query within 24 working hours.",
+      "_id": {
+        "$oid": "646213fc46f52640a06b78ea"
+      }
+    },
+    {
+      "question": "Can I get a refund?",
+      "answer": "No, we don't offer any refund. A free tier is already available at no cost.",
+      "_id": {
+        "$oid": "646213fc46f52640a06b78eb"
+      }
+    },
+    {
+      "question": "Will I get a certificate after completing a course?",
+      "answer": "Yes, you will receive an certificate on dashboard after completing the course modules.",
+      "_id": {
+        "$oid": "646213fc46f52640a06b78ec"
+      }
+    },
+    {
+      "question": "How will I access the content",
+      "answer": "Login using your gmail and purchase your course. After payment is complete, your course will be reflected on dashboard. If you face any issue, please reach out to us : deepak@xplainerr.com",
+      "_id": {
+        "$oid": "646213fc46f52640a06b78ed"
+      }
+    }
+  ],
+  "courseDescription": "Pricing and Monetization are critical aspects of product management that can significantly impact a company's success. This course on Pricing & Monetization for Product Managers is designed to equip you with the knowledge and skills needed to set prices that maximize revenue, optimize pricing strategies, and design monetization models that align with your business goals. In this course, you will learn how to conduct market research to understand customer needs and preferences, analyze financial data to evaluate the impact of pricing decisions on revenue and profit margins, and collaborate with cross-functional teams to set prices that align with business goals. By the end of this course, you will be able to develop effective pricing and monetization strategies that can drive the growth of your product and your company. Whether you are a seasoned product manager or a beginner, this course can help you take your skills to the next level. In today's competitive business environment, it's essential for product managers to have a solid understanding of pricing and monetization. Learning these skills can help you make informed decisions that can have a significant impact on your product's success and your company's bottom line.",
+  "instructors": [
+    {
+      "name": "Deepak Kumar",
+      "designation": "Product Manager - II",
+      "image": "venky.jpeg",
+      "ratings": 4,
+      "reviews": 32,
+      "students": 123,
+      "courses": 2,
+      "description": "Venkatesh currently works a Product Manager at India's leading fintech company - Razorpay. He previously lead growth and monetisation at Internshala. He has also co-founded Frontbench - an online marketplace for 1:1 mentorship.",
+      "_id": {
+        "$oid": "646213fc46f52640a06b78ee"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-15T11:14:04.312Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-17T18:12:38.781Z"
+  },
+  "__v": 0
+}]

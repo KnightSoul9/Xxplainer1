@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Main Nav Pages -->
+  <url>
+    <loc>https://www.xplainerr.com/terms-of-service</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/contact-us</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/privacy-policy</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/cancellation</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Courses Pages -->
+  <url>
+    <loc>https://www.xplainerr.com/courses</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/pm-interview</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/courses/api-for-pm</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/courses/pricing-for-pm</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/courses/ux-writing</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/cohorts/tech-for-product-managers</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Blog Pages -->
+  <url>
+    <loc>https://www.xplainerr.com/blog</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/leveraging-ai-as-data-analyst</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/razorpay-product-manager-salary</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/why-should-product-managers-and-designers-learn-ux-writing</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/leverage-chat-gpt-as-product-manager</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+   <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/5-lessons-for-start-founders-by-gumroad-ceo</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/ten-d2c-metrics-shark-tank</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/tech-simplified-book-review-for-product-managers-deepak-singh-pmcurve</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/one-year-as-a-product-manager-reflections-and-key-learnings</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/why-should-product-managers-and-designers-learn-ux-writing</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/blog/so-you-want-to-be-product-manager</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Quiz Related Pages -->
+  <url>
+    <loc>https://www.xplainerr.com/quiz/product-management</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.xplainerr.com/quiz/product-management/razorpay-65da49896b2f429947b2af80</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Add other quiz related pages -->
+  <url>
+    <loc>https://www.xplainerr.com/quiz/product-management/g-interview-65e5ecae25aa55d367a9be18</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xplainerr.com/quiz/product-management/amazon-interview-65e5f772e85bea38dc2bd96e</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xplainerr.com/quiz/product-management/flipkart-65e60f07e85bea38dc2bd9b5</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xplainerr.com/quiz/product-management/facebook-65e612c9e85bea38dc2bda1f</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xplainerr.com/quiz/product-management/microsoft-65e6f3a4e85bea38dc2bdb08</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xplainerr.com/quiz/product-management/airbnb-interview-65e70857e85bea38dc2bdb40</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xplainerr.com/quiz/product-management/uber-interview-65e71af0e85bea38dc2bdb7f</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  </urlset>
+

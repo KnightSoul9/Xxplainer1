@@ -1,0 +1,34 @@
+.persistent_cta{
+  z-index: 5000;
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  background-image: linear-gradient(147deg, #16528a, #16528a);
+  border-top: 1px solid rgba(255, 255, 255, 0.53);
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 5vw;
+  display: flex;
+  position: fixed;
+  top: auto;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+}
+
+.persistent_ctA{
+  z-index: 5000;
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  background-image: linear-gradient(147deg, #16528a, #16528a);
+  /* border-top: 1px solid rgba(255, 255, 255, 0.53); */
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 5vw;
+  display: flex;
+  position: fixed;
+  top: auto;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+}
+
