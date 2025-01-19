@@ -45,8 +45,6 @@ const Apiforpms = ({ course }) => {
     };
   }, []);
 
-  // console.log(scrolledToApplication, "abc");
-
   return (
     <>
       <CommonHead
@@ -64,11 +62,31 @@ const Apiforpms = ({ course }) => {
         />
         <Questions />
         <Reviews courseSlug={"api-for-product-managers"} />
+
+        {/* New Section */}
+        <section className="mt-10 px-4 text-center">
+          <h2 className="text-2xl font-bold mb-4">
+            Your Free Pass to a Live Session Awaits—Reserve Your Spot!
+          </h2>
+          <div className="flex justify-center">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/RgkW4T2aRSg?si=Qe2wTEUAQPmJQv4l&amp;controls=0"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </section>
+
         <Authors
           data={course?.instructors}
           courseSlug={"/cohorts/api-for-pms"}
         />
-        <FaqsForPms/>
+        <FaqsForPms />
         <Application />
 
         {!scrolledToApplication && showCTA && (
