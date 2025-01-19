@@ -129,6 +129,96 @@ export const courseReviews = [
       reviews: [
         {
           _id: "656e0140f81bc38a0adc54511",
+          name: "Maximiliano Olivares",
+          company: "Staff Product Manager @ Intuit",
+          ratings: 5,
+          reviewDate: "Dec 25, 2024",
+          profile: "/reviews/Maximiliano_Olivares.jpeg",
+          review: "Everything was explained exceptionally well. Concepts that I had encountered in my job were broken down in a way that made them much easier to understand. The real examples and visuals were incredibly helpful in grasping the terms presented. I particularly enjoyed the hands-on experience of creating a database and working through examples via Excel. Learning the differences between databases and practicing SQL was a highlight of the session. Highly recommend this to anyone looking to deepen their understanding of data and product management!",
+          date: "2024-12-25T09:00:00.000Z"
+        },
+        {
+          _id: "656e0140f81bc38a0adc54512",
+          name: "Tushar Tyagi",
+          company: "Product Leader @ EQ Bank | Ex-Razorpay",
+          ratings: 5,
+          reviewDate: "Dec 30, 2024",
+          profile: "/reviews/Tushar_Tyagi.jpeg",
+          review: "The Tech For Product Manager cohort covered an impressive set of topics and provided in-depth insights into data pipelines, APIs, and system design. The overall content was comprehensive and practical.",
+          date: "2024-12-30T09:00:00.000Z"
+        },
+        {
+          _id: "656e0140f81bc38a0adc54513",
+          name: "Disha Sharma",
+          company: "Senior Product Manager @ Accacia",
+          ratings: 5,
+          reviewDate: "Jan 3, 2025",
+          profile: "/reviews/Disha_Sharma.jpeg",
+          review: "Everything was explained from the very initial stage, with examples that were to the point and easy to understand. The breakout room sessions allowed us to see the practical application of the concepts we learned.",
+          date: "2025-01-03T09:00:00.000Z"
+        },
+        {
+          _id: "656e0140f81bc38a0adc54514",
+          name: "Prathibha Agarwal",
+          company: "Senior Product Manager @ Hiver",
+          ratings: 5,
+          reviewDate: "Jan 5, 2025",
+          profile: "/reviews/Prathibha_Agarwal.jpeg",
+          review: "Joining the 'Tech for Product Manager' cohort was a fantastic experience! The content was thorough and easy to follow, with plenty of real-world examples that helped simplify complex topics. The hands-on activities were a great way to reinforce the concepts. Venkatesh also answered all of our questions patiently, providing extra clarity where needed. I particularly enjoyed how he used examples from actual products and their architecture to give us a clearer picture of the concepts in action.",
+          date: "2025-01-05T09:00:00.000Z"
+        },
+        {
+          _id: "656e0140f81bc38a0adc54515",
+          name: "Apurva Shetty",
+          company: "Senior Product Manager @ Porter",
+          ratings: 5,
+          reviewDate: "Jan 8, 2025",
+          profile: "/reviews/Apurva_Shetty.jpeg",
+          review: "The content and explanations in the 'Tech for Product Manager' cohort were solid and insightful. The sessions provided a strong foundation, and Venkatesh's way of breaking things down made complex concepts easy to grasp. I appreciated the depth of the material covered, though I was hoping for more practical use cases with hands-on API building.",
+          date: "2025-01-08T09:00:00.000Z"
+        },
+        {
+          _id: "656e0140f81bc38a0adc54516",
+          name: "Karthik Narasimhan",
+          company: "Product Management @ Publicis Sapient | MBA, IIM L",
+          ratings: 5,
+          reviewDate: "Jan 12, 2025",
+          profile: "/reviews/Karthik_Narasimhan.jpeg",
+          review: "The session was seamless and engaging, with a logical flow that kept me intrigued and eager to explore the topics further. Venkatesh's approach sparked genuine interest in diving deeper into the concepts covered. I particularly enjoyed the hands-on work with Postman, which added a practical edge to the learning experience. While I appreciate the breakout room activities, I personally feel they might be more effective at the end of sessions rather than in between, allowing participants to first develop their own understanding before group discussions. Overall, it was a valuable and enriching experience that left me motivated to learn more!",
+          date: "2025-01-12T09:00:00.000Z"
+        },
+        {
+          _id: "656e0140f81bc38a0adc54517",
+          name: "Vivek Sarthi",
+          company: "Principal Product Management, Alexa at Amazon | IIT Delhi",
+          ratings: 5,
+          reviewDate: "Jan 14, 2025",
+          profile: "/reviews/Vivek_Sarthi.jpeg",
+          review: "Venkatesh has a remarkable understanding of tech concepts and covered an impressive amount of material in the session. The database session was particularly insightful, touching on all the key aspects of data handling and providing a clear roadmap for further skill development in this area. The API topics were also covered comprehensively, striking the perfect balance by being detailed yet not overly technical. That said, the session did run longer than expected, exceeding 2.5 hours. While I greatly admire Venkatesh’s energy and dedication to covering so much ground, it was a bit draining by the end. Overall, it was an enriching and well-structured learning experience that left me with actionable takeaways.",
+          date: "2025-01-14T09:00:00.000Z"
+        },
+        {
+          _id: "656e0140f81bc38a0adc54518",
+          name: "Chitra Ghosh",
+          company: "Lead Product Manager, Signeasy",
+          ratings: 5,
+          reviewDate: "Dec 28, 2024",
+          profile: "/reviews/Chitra_Ghosh.jpeg",
+          review: "It's been nearly two years since I started following the content Venkatesh creates through Xplainerr, and my journey has been nothing short of transformative as a PM. The 'Tech for Product Manager' course I enrolled in played a pivotal role in helping me transition from a Core PM role to a Platform PM role.",
+          date: "2024-12-28T09:00:00.000Z"
+        },
+        {
+          _id: "656e0140f81bc38a0adc54519",
+          name: "Thara Mary Varghese",
+          company: "Strategy at Solaris SE",
+          ratings: 5,
+          reviewDate: "Dec 27, 2024",
+          profile: "/reviews/Thara_Mary_Varghese.jpeg",
+          review: "Venkatesh's sessions are incredibly insightful and well-structured, making complex tech concepts easy to grasp.",
+          date: "2024-12-27T09:00:00.000Z"
+        },
+        {
+          _id: "656e0140f81bc38a0adc54511",
           name: `Badal Singh`,
           company: `Category Manager @ Swiggy | Ex - Amazon`,
           ratings: 5,
@@ -333,105 +423,4 @@ export const courseReviews = [
       ],
     },
   },
-  {
-    courseSlug: "api-for-product-managers",
-    result: {
-      _id: "645907187213f63d434e39e6FF",
-      courseID: "jcIkkhRmkEHzja9srGHtFF",
-      slug: "api-for-product-managers",
-      title: "Api For Product Managers",
-      reviews: [
-        {
-          _id: "656e0140f81bc38a0adc54511",
-          name: "Maximiliano Olivares",
-          company: "Staff Product Manager @ Intuit",
-          ratings: 5,
-          reviewDate: "Dec 25, 2024",
-          profile: "/reviews/Maximiliano_Olivares.jpeg",
-          review: "Everything was explained exceptionally well. Concepts that I had encountered in my job were broken down in a way that made them much easier to understand. The real examples and visuals were incredibly helpful in grasping the terms presented. I particularly enjoyed the hands-on experience of creating a database and working through examples via Excel. Learning the differences between databases and practicing SQL was a highlight of the session. Highly recommend this to anyone looking to deepen their understanding of data and product management!",
-          date: "2024-12-25T09:00:00.000Z"
-        },
-        {
-          _id: "656e0140f81bc38a0adc54512",
-          name: "Tushar Tyagi",
-          company: "Product Leader @ EQ Bank | Ex-Razorpay",
-          ratings: 5,
-          reviewDate: "Dec 30, 2024",
-          profile: "/reviews/Tushar_Tyagi.jpeg",
-          review: "The Tech For Product Manager cohort covered an impressive set of topics and provided in-depth insights into data pipelines, APIs, and system design. The overall content was comprehensive and practical.",
-          date: "2024-12-30T09:00:00.000Z"
-        },
-        {
-          _id: "656e0140f81bc38a0adc54513",
-          name: "Disha Sharma",
-          company: "Senior Product Manager @ Accacia",
-          ratings: 5,
-          reviewDate: "Jan 3, 2025",
-          profile: "/reviews/Disha_Sharma.jpeg",
-          review: "Everything was explained from the very initial stage, with examples that were to the point and easy to understand. The breakout room sessions allowed us to see the practical application of the concepts we learned.",
-          date: "2025-01-03T09:00:00.000Z"
-        },
-        {
-          _id: "656e0140f81bc38a0adc54514",
-          name: "Prathibha Agarwal",
-          company: "Senior Product Manager @ Hiver",
-          ratings: 5,
-          reviewDate: "Jan 5, 2025",
-          profile: "/reviews/Prathibha_Agarwal.jpeg",
-          review: "Joining the 'Tech for Product Manager' cohort was a fantastic experience! The content was thorough and easy to follow, with plenty of real-world examples that helped simplify complex topics. The hands-on activities were a great way to reinforce the concepts. Venkatesh also answered all of our questions patiently, providing extra clarity where needed. I particularly enjoyed how he used examples from actual products and their architecture to give us a clearer picture of the concepts in action.",
-          date: "2025-01-05T09:00:00.000Z"
-        },
-        {
-          _id: "656e0140f81bc38a0adc54515",
-          name: "Apurva Shetty",
-          company: "Senior Product Manager @ Porter",
-          ratings: 5,
-          reviewDate: "Jan 8, 2025",
-          profile: "/reviews/Apurva_Shetty.jpeg",
-          review: "The content and explanations in the 'Tech for Product Manager' cohort were solid and insightful. The sessions provided a strong foundation, and Venkatesh's way of breaking things down made complex concepts easy to grasp. I appreciated the depth of the material covered, though I was hoping for more practical use cases with hands-on API building.",
-          date: "2025-01-08T09:00:00.000Z"
-        },
-        {
-          _id: "656e0140f81bc38a0adc54516",
-          name: "Karthik Narasimhan",
-          company: "Product Management @ Publicis Sapient | MBA, IIM L",
-          ratings: 5,
-          reviewDate: "Jan 12, 2025",
-          profile: "/reviews/Karthik_Narasimhan.jpeg",
-          review: "The session was seamless and engaging, with a logical flow that kept me intrigued and eager to explore the topics further. Venkatesh's approach sparked genuine interest in diving deeper into the concepts covered. I particularly enjoyed the hands-on work with Postman, which added a practical edge to the learning experience. While I appreciate the breakout room activities, I personally feel they might be more effective at the end of sessions rather than in between, allowing participants to first develop their own understanding before group discussions. Overall, it was a valuable and enriching experience that left me motivated to learn more!",
-          date: "2025-01-12T09:00:00.000Z"
-        },
-        {
-          _id: "656e0140f81bc38a0adc54517",
-          name: "Vivek Sarthi",
-          company: "Principal Product Management, Alexa at Amazon | IIT Delhi",
-          ratings: 5,
-          reviewDate: "Jan 14, 2025",
-          profile: "/reviews/Vivek_Sarthi.jpeg",
-          review: "Venkatesh has a remarkable understanding of tech concepts and covered an impressive amount of material in the session. The database session was particularly insightful, touching on all the key aspects of data handling and providing a clear roadmap for further skill development in this area. The API topics were also covered comprehensively, striking the perfect balance by being detailed yet not overly technical. That said, the session did run longer than expected, exceeding 2.5 hours. While I greatly admire Venkatesh’s energy and dedication to covering so much ground, it was a bit draining by the end. Overall, it was an enriching and well-structured learning experience that left me with actionable takeaways.",
-          date: "2025-01-14T09:00:00.000Z"
-        },
-        {
-          _id: "656e0140f81bc38a0adc54518",
-          name: "Chitra Ghosh",
-          company: "Lead Product Manager, Signeasy",
-          ratings: 5,
-          reviewDate: "Dec 28, 2024",
-          profile: "/reviews/Chitra_Ghosh.jpeg",
-          review: "It's been nearly two years since I started following the content Venkatesh creates through Xplainerr, and my journey has been nothing short of transformative as a PM. The 'Tech for Product Manager' course I enrolled in played a pivotal role in helping me transition from a Core PM role to a Platform PM role.",
-          date: "2024-12-28T09:00:00.000Z"
-        },
-        {
-          _id: "656e0140f81bc38a0adc54519",
-          name: "Thara Mary Varghese",
-          company: "Strategy at Solaris SE",
-          ratings: 5,
-          reviewDate: "Dec 27, 2024",
-          profile: "/reviews/Thara_Mary_Varghese.jpeg",
-          review: "Venkatesh's sessions are incredibly insightful and well-structured, making complex tech concepts easy to grasp.",
-          date: "2024-12-27T09:00:00.000Z"
-        }
-      ]
-    }
-  }, 
 ];

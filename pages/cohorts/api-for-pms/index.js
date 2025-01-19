@@ -61,7 +61,7 @@ const Apiforpms = ({ course }) => {
           slug={"api-for-pms"}
         />
         <Questions />
-        <Reviews courseSlug={"api-for-product-managers"} />
+        <Reviews courseSlug={"api-for-pm"} />
 
         {/* New Section */}
         <section className="mt-10 px-4 text-center">
