@@ -56,16 +56,13 @@ const Apiforpms = ({ course }) => {
       <PageLayout>
         <Banner />
         <Info />
-        <CourseOverview
-          courseData={CohortData}
-          slug={"api-for-pms"}
-        />
+        <CourseOverview courseData={CohortData} slug={"api-for-pms"} />
         <Questions />
         <Reviews courseSlug={"api-for-pm"} />
 
         {/* New Section */}
         <section className="mt-10 px-4 text-center">
-          <h2 className="text-2xl font-bold mb-4">
+          <h2 className="mt-8 mb-8 text-center text-2xl font-semibold text-[#101828DE] lg:mt-1 lg:text-[32px]">
             Your Free Pass to a Live Session Awaits—Reserve Your Spot!
           </h2>
           <div className="flex justify-center">

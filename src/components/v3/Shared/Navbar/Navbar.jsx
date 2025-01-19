@@ -315,7 +315,7 @@ const Navbar = ({ pageName, posts, course }) => {
                                   <div>
                                     <h4>API for PMs</h4>
                                     <button className="h-[20px] rounded-sm bg-[#E0EBFF] px-2 text-[12px] font-bold text-[#4B73FF]">
-                                      Save ₹2,600
+                                      Save ₹2,000
                                     </button>
                                   </div>
                                 </div>
